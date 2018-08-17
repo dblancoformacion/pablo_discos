@@ -1,0 +1,37 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.wrapper{
+	width: 900px;
+	height: 600px;
+	margin: 0px auto;
+	margin-top: 20px;
+}
+
+.formulario{
+	width: 700px;
+	height: 100px;
+	color: ivory;
+	background-color: steelblue;
+	font-weight: bold;
+	text-align: center;
+	margin: 1px solid black;
+}
+
+.tabla{
+	display: table;
+}
+
+.fila{
+	display: table-row;
+	background-color: steelblue;
+	color: ivory;
+	margin: 1px solid black;
+}
+
+.celda{
+	display: table-cell;
+	padding: 10px;
+}
